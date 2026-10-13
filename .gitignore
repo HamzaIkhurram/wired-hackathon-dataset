@@ -7,3 +7,4 @@ env/
 figs/
 .DS_Store
 data/*.csv
+Results/
