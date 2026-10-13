@@ -40,4 +40,7 @@ The official challenge runs on the Grid Data Hub: **https://datahub.wiredcenter.
 
 Register with CILogon or ORCID, do the onboarding challenge, then work the modules. Final prompt October 5. Submissions close October 30.
 
-Questions: pramonettivega@ucsd.edu
+## Questions?
+
+- **Muhammad Hamza Imtiaz** (modules): hamza.imtiaz@ucalgary.ca
+- **Pedro Ramonetti** (Grid Data Hub): pramonettivega@ucsd.edu
